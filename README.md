@@ -1,2 +1,2 @@
 # learn-php
-All about php
+All about php language.
